@@ -26,7 +26,7 @@ The goal of this project was to demonstrate:
 
 # 🖥️ Dashboard Preview
 
-![Netflix Dashboard](./Screenshot.png)
+![Netflix Dashboard](Screenshot.png)
 
 ---
 
